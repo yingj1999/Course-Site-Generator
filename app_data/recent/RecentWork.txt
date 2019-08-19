@@ -1,0 +1,10 @@
+df-work/df.json
+newtest-work/newtest.json
+asd-work/asd.json
+newStuff-work/newStuff.json
+NewFile-work/NewFile.ta
+newTest-work/newTest.ta
+idk-work/idk.ta
+kkh-work/kkh.ta
+CSE219_TAs-work/CSE219_TAs.ta
+CSE114_TAs-work/CSE114_TAs.ta
